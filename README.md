@@ -2,8 +2,6 @@
 
 Aplicação feita com objetivo de estudo e testes com vue.js
 
-# vue-app-verifica
-
 ## Project setup
 ```
 yarn install
