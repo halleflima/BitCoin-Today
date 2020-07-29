@@ -1,7 +1,7 @@
 <template>
 
   <div id="app">
-    <CurrentCoin />
+      <CurrentCoin/>
   </div>
 
 </template>

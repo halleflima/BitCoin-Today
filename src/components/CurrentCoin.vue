@@ -2,7 +2,7 @@
 
   <div id="moeda-valor">
 
-    <h1> Preços do BitCoin </h1>
+    <h1> BitCoin Prices</h1>
     <div v-for="currency in info" :key="currency" class="currency">
       {{ currency.description }}
       <span class="lighten">
