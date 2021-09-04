@@ -41,13 +41,13 @@ import axios from 'axios';
   #moeda-valor{
   font-size: 180%;
   margin-top: 145px;
-  width: 500px; 
-  padding: 25px 40px 40px;
+  width: 400px; 
+  padding: 20px 40px 40px;
   background: #2F242C;
   border-radius: 5px;
   color: #B3BFB8;
 
-  margin-left: 27%;
+  margin-left: 32%;
   margin-right: 35%;
   }
 
